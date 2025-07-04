@@ -1,0 +1,31 @@
+Good youtube videos and resources
+
+https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/index.html
+
+Prompt engineering: https://www.youtube.com/watch?v=DL82mGde6wo
+
+MCP crash course: https://www.youtube.com/watch?v=MDBG2MOp4Go
+
+FitFest video: https://bosch.mediaspace.de.kaltura.com/media/FIT.Fest25+-+June+Edition/0_t29u3soo
+
+Autogen docs: https://microsoft.github.io/autogen/stable/user-guide/agentchat-user-guide/index.html
+
+MCP python sdk: https://github.com/modelcontextprotocol/python-sdk/blob/main/CODE_OF_CONDUCT.md
+https://modelcontextprotocol.io/quickstart/server#kotlin
+
+Hugging face courses: 
+https://huggingface.co/learn/mcp-course/unit1/capabilities
+https://huggingface.co/learn/llm-course/chapter1/1
+https://huggingface.co/learn/agents-course/unit0/introduction
+
+Autogen Deeplearning course: https://learn.deeplearning.ai/courses/ai-agentic-design-patterns-with-autogen/lesson/hsm3a/sequential-chats-and-customer-onboarding
+
+FastAPI video: https://www.youtube.com/watch?v=7t2alSnE2-I&t=123s
+
+Autogen studio video: https://www.youtube.com/watch?v=Z0J4Hdo_d78
+
+General AI concepts (RAG, streamlit, langflow): https://www.youtube.com/watch?v=msLovKSj8Q0
+
+Chainlit tutorial: https://www.youtube.com/watch?v=tv7rn5AsxFY&t=30s
+
+Chainlit examples: https://github.com/Chainlit/cookbook/tree/main/auth
